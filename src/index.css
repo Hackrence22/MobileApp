@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background: url(C:\xampp\htdocs\Mobile App\my-first-react\src\assets\super-saiyan-son-goku.gif) no-repeat center center fixed;
+  background-color: orange;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
